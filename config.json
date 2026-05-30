@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartderify",
+        "uuid": 12621960,
+        "checksum": "f12tf1"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
